@@ -14,7 +14,7 @@ This project covered the following topics
 
 ### Requirements
 - JavaFX runtime (https://openjfx.io/) <br>
-- [WordOccurrences.jar](WordOccurrences.jar)
+- [WordOccurrences.jar](https://github.com/rlao1/word-occurrences/blob/main/WordOccurrences.jar?raw=true)
 
 ### Local Run Instructions (Windows)
 1. Open the Windows Command Prompt terminal
