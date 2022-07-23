@@ -27,7 +27,7 @@ java --module-path "<PATH_TO_FX/lib>" --add-modules=javafx.controls,javafx.fxml 
 ### Preview
 ![app-demo.gif](screenshot/app-demo.gif)
 
-### JavaDoc
+### JavaDoc @ https://rlao1.github.io/word-occurrences/
 ![javadoc-preview.gif](screenshot/javadoc-preview.gif)
 
 
